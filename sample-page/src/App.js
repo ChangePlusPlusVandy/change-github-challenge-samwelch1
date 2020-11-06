@@ -16,13 +16,14 @@ function App() {
               </p>
           </div>
 
-          <p style={{fontSize: '2rem'}}>Project Name: Change++ Exec </p>
+          <p style={{fontSize: '2rem'}}>Project Name: The Farmlink Project </p>
           <p style={{margin: "5px", fontSize: "1.6rem"}}>Team members:</p>
 
           <div className='team-section'>
               {/*MAKE CHANGES HERE*/}
               {/* the code below is an example of how to create a member component.*/}
               {/* feel free to copy it and update with your information */}
+              <Member name = 'Sam Welch' favFood = 'bacon' favColor='blue'/>
               <Member name = 'Jaden Hicks' favFood = 'calamari' favColor='orange'/>
           </div>
 
