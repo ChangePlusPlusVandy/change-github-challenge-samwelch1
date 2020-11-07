@@ -25,6 +25,7 @@ function App() {
               {/* feel free to copy it and update with your information */}
               <Member name = 'Sam Welch' favFood = 'bacon' favColor='blue'/>
               <Member name = 'Jaden Hicks' favFood = 'calamari' favColor='orange'/>
+              <Member name = 'Lucas Goldman' favFood = 'pizza' favColor='green'/>
           </div>
 
           <div className='club-logo'>
