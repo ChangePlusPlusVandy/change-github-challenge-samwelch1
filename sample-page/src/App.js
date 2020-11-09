@@ -23,6 +23,7 @@ function App() {
               {/*MAKE CHANGES HERE*/}
               {/* the code below is an example of how to create a member component.*/}
               {/* feel free to copy it and update with your information */}
+              <Member name = 'Tabitha Lee' favFood = 'chocolate' favColor='navy'/>
               <Member name = 'Sam Welch' favFood = 'bacon' favColor='blue'/>
               <Member name = 'Jaden Hicks' favFood = 'calamari' favColor='orange'/>
           </div>
