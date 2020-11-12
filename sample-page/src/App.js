@@ -26,6 +26,7 @@ function App() {
               <Member name = 'Tabitha Lee' favFood = 'chocolate' favColor='navy'/>
               <Member name = 'Sam Welch' favFood = 'bacon' favColor='blue'/>
               <Member name = 'Jaden Hicks' favFood = 'calamari' favColor='orange'/>
+              <Member name = 'Jacob Stallings' favFood = 'burgers' favColor = 'blue'/>
               <Member name = 'Lucas Goldman' favFood = 'sushi' favColor='green'/>
               <Member name = 'Alice Qiao' favFood = 'dumplings' favColor='purple'/>
           </div>
