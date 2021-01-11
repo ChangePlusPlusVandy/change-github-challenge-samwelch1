@@ -80,7 +80,7 @@ this will require a git add, commit, and push:
 ```bash
 $ git add .
 $ git commit -m '<message>'
-$ git push
+$ git push -u origin <branch-name>
 ```
 
 ## 5. Create a pull request for your branch
